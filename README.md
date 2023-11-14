@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Backend Development 
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for Jobs that deals with Backend Development 
-- 📫 How to reach me: [Email](ekehumphery@gmail.com) and [Twitter](https://twitter.com/chukwuanugoeke_)
+- 📫 How to reach me: [Email](ekehumphery@gmail.com) and [Twitter](https://twitter.com/chukwuanugoeke)
 
 ### Below, lies my stats from the past year: 
 <p align = "left">
