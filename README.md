@@ -4,7 +4,7 @@
 </p> -->
 <!-- ![Welcome to my hub](https://i.imgur.com/jS36FFZ.gif) -->
 
-- 🌱 I’m currently learning Backend Development 
+- 🌱 I’m a blockchain developer
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for Jobs that deal with Backend Development 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chukwuanugo-eke-b07684280) and [Twitter](https://twitter.com/chukwuanugoeke)
