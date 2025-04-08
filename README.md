@@ -1,4 +1,4 @@
- ### Hi, I'm Anugo 🔥💻 
+ ### Hi, I'm Dev.sol 🔥💻 
 <!-- <p align= "center">
      <img title="Anugo" height="500" src="https://i.imgur.com/jS36FFZ.gif" width="100%"/>
 </p> -->
