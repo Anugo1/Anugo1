@@ -1,4 +1,4 @@
- ### Hi, I'm Dev.sol 🔥💻 
+ ### Hi, I'm Dev.sol🔥💻 
 <!-- <p align= "center">
      <img title="Anugo" height="500" src="https://i.imgur.com/jS36FFZ.gif" width="100%"/>
 </p> -->
@@ -14,3 +14,5 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Anugo1&show_icons=true&count_private=true&theme=gotham&hide_border=false&bg_color=00000000"/>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Anugo1&layout=compact&hide_border=false&theme=gotham&bg_color=00000000"/>
 </p>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Anugo1&theme=neon)](https://git.io/streak-stats)
